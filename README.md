@@ -1,4 +1,4 @@
-</h1>
+use</h1>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=8A2BE2&center=true&width=1150&height=200&lines=deployed+at+all+platforms"alt="Typing SVG" /></a>
   </div>
   
@@ -26,17 +26,48 @@
     </tr>
 
  ### 📤 Deployment Options
+<img "" 
+<p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
+    <img src="/blob/main/assets/warning.gif?raw=true" width="15"/> 
+    Connection issues may require VPN activation
+  </p>
+</div>
 
-<!-- ✅ Heroku Deploy Button (Fixed) -->
-<a href="https://black-python.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-purple?style=for-the-badge&logo=heroku&logoColor=white" alt="Deploy on Heroku" width="220">
-</a>
+</div>
 
-<!-- ➕ Render Deploy Button (New) -->
-<a href="https://render.com" target="_blank">
-  <img src="https://img.shields.io/badge/DEPLOY%20TO%20RENDER-blue?style=for-the-badge&logo=render&logoColor=white" alt="Deploy on Render" width="220">
-</a>
+<div align="center">
+  <img src="https://github.com/black-spider436/jeepers-creeper-xmd/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=JEEPERS+CREEPER+XMD;DEPLOYMENT+SIGHT"alt="Animated
 
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/black-spider436/jeepers-creeper-xmd" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
+      <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=  https://github.com/black-spider436/jeepers-creeper-xmd " target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://render.com/deploy?repo=  https://github.com/black-spider436/jeepers-creeper-xmd " target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
+      <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/techwave.gif?raw=true" width="100%"/>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=JEEPERS+CREEPER-XMD;BOT+FEATURES;ANTIDELETE;ANTIVIEWONCE;ANTILINK;ALL+PLATFORM+DL;AND+ETC:AT+2025"alt="Animated
+
+<div align="center">
+  <img src="https://github.com/black-spider436/jeepers-creeper-xmd  /blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
+</div>
 
 description of sir bravin
   +respect all guyz
